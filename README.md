@@ -41,10 +41,13 @@ Employees without a branch and branches without employees both appear with NULL 
 
 OUTPUT 
 
-INNER JOIN
+![Image](https://github.com/user-attachments/assets/9c0fe9bb-00ba-4f44-a6c9-eccc51ccebf1)
 
-![Image](https://github.com/user-attachments/assets/1f98498a-8e9f-4f2a-bf99-e661927bfcd4)
+![Image](https://github.com/user-attachments/assets/5e7fd2f9-3e06-4a94-99d2-b8e5721fd48c)
 
+![Image](https://github.com/user-attachments/assets/89aec63e-65c9-4bf1-9b36-0d4b05abf76f)
+
+![Image](https://github.com/user-attachments/assets/f2b56f30-f1db-4b3e-a784-ae30d6edb2cb)
 
 
 
