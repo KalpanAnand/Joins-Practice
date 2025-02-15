@@ -32,9 +32,20 @@ Retrieves all branches and their assigned employees.
 If a branch has no employees, the employee details appear as NULL.
 Ensures that all branches are represented, even if they do not have any employees.
 
-
 FULL JOIN (Simulated using UNION in MySQL):
 
 Combines the results of LEFT JOIN and RIGHT JOIN.
 Retrieves all employees and all branches, even if they are not related.
 Employees without a branch and branches without employees both appear with NULL values in the missing columns.
+
+
+OUTPUT 
+
+INNER JOIN
+
+![Image](https://github.com/user-attachments/assets/1f98498a-8e9f-4f2a-bf99-e661927bfcd4)
+
+
+
+
+
